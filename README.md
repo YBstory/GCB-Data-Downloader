@@ -9,6 +9,7 @@ A desktop application for downloading data files from [Global Carbon Budget (GCB
 
 ## 📥 Download
 
+ **Chrome browser** must be installed (used for web scraping)
 **[⬇️ Download GCB_Downloader.exe (Windows)](https://github.com/YBstory/GCB-Data-Downloader/releases/latest/download/GCB_Downloader.exe)**
 ## ✨ Features
 
@@ -140,6 +141,7 @@ MIT License
 - [Global Carbon Project](https://www.globalcarbonproject.org/) - International research collaboration tracking global carbon cycle
 - [Selenium](https://www.selenium.dev/) - Web automation
 - [webdriver-manager](https://github.com/SergeyPirogov/webdriver_manager) - ChromeDriver auto-management
+
 
 
 
