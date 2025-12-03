@@ -33,24 +33,7 @@ Data files are available in multiple formats including NetCDF (.nc), Excel (.xls
 
 ## 📸 Screenshot
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  GCB Data Downloader                                        │
-├─────────────────────────────────────────────────────────────┤
-│  URL: [https://mdosullivan.github.io/GCB/] [Scan] [Cache]   │
-│  Filter: [________] Type: [All ▼]  [Show All] Downloaded: 100│
-├──────────────────────────────┬──────────────────────────────┤
-│  File List                    │  Download Control            │
-│  ├─ 📁 2024                   │  Selected: 50 files (2.5 GB) │
-│  │   ├─ 📄 data.nc    150MB   │  Parallel: [3 ▼]            │
-│  │   └─ 📄 info.xlsx  2MB     │  [Start] [Stop]              │
-│  └─ 📁 2023                   │                              │
-│      └─ ...                   │  Overall: ████████░░ 80%     │
-│                               │  Task1: file1.nc downloading │
-│                               │  Task2: file2.nc done        │
-│                               │  Task3: waiting...           │
-└──────────────────────────────┴──────────────────────────────┘
-```
+
 
 ## 🚀 Quick Start
 
@@ -153,3 +136,4 @@ MIT License
 - [Global Carbon Project](https://www.globalcarbonproject.org/) - International research collaboration tracking global carbon cycle
 - [Selenium](https://www.selenium.dev/) - Web automation
 - [webdriver-manager](https://github.com/SergeyPirogov/webdriver_manager) - ChromeDriver auto-management
+
