@@ -33,7 +33,7 @@ Data files are available in multiple formats including NetCDF (.nc), Excel (.xls
 
 ## 📸 Screenshot
 
-
+<img width="2675" height="1854" alt="Image" src="https://github.com/user-attachments/assets/384c5fc3-a13c-4ecc-b821-02465a750982" />
 
 ## 🚀 Quick Start
 
@@ -136,4 +136,5 @@ MIT License
 - [Global Carbon Project](https://www.globalcarbonproject.org/) - International research collaboration tracking global carbon cycle
 - [Selenium](https://www.selenium.dev/) - Web automation
 - [webdriver-manager](https://github.com/SergeyPirogov/webdriver_manager) - ChromeDriver auto-management
+
 
