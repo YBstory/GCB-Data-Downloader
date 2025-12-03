@@ -1,11 +1,15 @@
 # GCB Data Downloader
 
-A desktop application for downloading data files from [Global Carbon Budget (GCB)](https://mdosullivan.github.io/GCB/).
+A desktop application for downloading data files from [Global Carbon Budget (GCB)](https://globalcarbonbudget.org/).
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
+[![GitHub Release](https://img.shields.io/github/v/release/YBstory/GCB-Data-Downloader)](https://github.com/YBstory/GCB-Data-Downloader/releases/latest)
 
+## 📥 Download
+
+**[⬇️ Download GCB_Downloader.exe (Windows)](https://github.com/YBstory/GCB-Data-Downloader/releases/latest/download/GCB_Downloader.exe)**
 ## ✨ Features
 
 - 🔍 **Auto Scanning** - Automatically scan all data files from the GCB website using Selenium
@@ -136,6 +140,7 @@ MIT License
 - [Global Carbon Project](https://www.globalcarbonproject.org/) - International research collaboration tracking global carbon cycle
 - [Selenium](https://www.selenium.dev/) - Web automation
 - [webdriver-manager](https://github.com/SergeyPirogov/webdriver_manager) - ChromeDriver auto-management
+
 
 
 
